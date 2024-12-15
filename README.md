@@ -53,4 +53,9 @@ URL: http://localhost:8080/swagger-ui.html
 - Documentation: Swagger UI
 - Validation: Hibernate Validator
 
+## Preview
+
+![alt text](https://github.com/Ulisses22/dockerized-spring-api/blob/b60507be7857256a893c3a62ada59d66ed8c3dc0/Screenshot.png?raw=true)
+
+
 ### Enjoy coding! 💻✨
