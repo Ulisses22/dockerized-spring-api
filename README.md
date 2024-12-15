@@ -7,7 +7,7 @@ The API is fully containerized with **Docker Compose** and comes with pre-config
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ulisses22/dockerized-spring-api/tree/master
+git clone https://github.com/Ulisses22/dockerized-spring-api.git
 cd spring-boot-api-jwt
 
 ```
