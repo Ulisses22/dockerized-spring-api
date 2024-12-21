@@ -90,6 +90,10 @@
 			<version>5.0.0</version> <!-- Ensure you use the appropriate version -->
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-mail</artifactId>
+		</dependency>
 
 		<!-- JUnit 5 -->
 		<dependency>

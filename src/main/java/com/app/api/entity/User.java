@@ -22,6 +22,8 @@ public class User {
     @NotBlank
     private String email;
 
+    private boolean isActive = false;
+
     // Getter for id
     public Long getId() {
         return id;
@@ -60,5 +62,15 @@ public class User {
     // Setter for email
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    // Getter for isActive
+    public boolean getIsActive() {
+        return isActive;
+    }
+
+    // Setter for isActive
+    public void setIsActive(Boolean isActive){
+        this.isActive = isActive;
     }
 }
