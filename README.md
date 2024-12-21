@@ -39,6 +39,7 @@ docker-compose up --build     # Build and run containers
 |----------------------|--------|--------------------------|---------------|
 | `/api/auth/login`    | POST   | Log in and get JWT token | ❌            |
 | `/api/auth/register` | POST   | Register a new user      | ❌            |
+| `/api/auth/activate` | GET    | Activate a new user      | ❌            |
 | `/api/private`       | GET    | Private content          | ✅            |
 | `/api/public`        | GET    | Public content           | ❌            |
 
