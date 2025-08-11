@@ -33,7 +33,7 @@ SPRING_DATASOURCE_PASSWORD: root
 docker-compose up --build     # Build and run containers
 ```
 
-## 📜 Endpoints
+## Endpoints
 
 | Endpoint             | Method | Description              | Auth Required |
 |----------------------|--------|--------------------------|---------------|
@@ -43,7 +43,7 @@ docker-compose up --build     # Build and run containers
 | `/api/private`       | GET    | Private content          | ✅            |
 | `/api/public`        | GET    | Public content           | ❌            |
 
-## 📜 Swagger Documentation
+## Swagger Documentation
 URL: http://localhost:8080/swagger-ui.html
 
 ## ⚙️ Tech Stack
