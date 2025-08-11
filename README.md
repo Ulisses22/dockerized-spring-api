@@ -1,4 +1,4 @@
-# 🌟 Spring Boot API with JWT Auth and Swagger UI 🚀
+# 🌟 Spring Boot API with JWT Auth and Swagger UI
 
 This API is built using **Spring Boot**, integrates **JWT authentication**, and uses **PostgreSQL** as the database.
 The API is fully containerized with **Docker Compose** and comes with pre-configured **Swagger UI** for easy API exploration.
