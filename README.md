@@ -4,14 +4,14 @@ This API is built using **Spring Boot**, integrates **JWT authentication**, and 
 The API is fully containerized with **Docker Compose** and comes with pre-configured **Swagger UI** for easy API exploration.
 
 ## 🚀 How to Run the Project
-1️⃣ Clone the Repository
+## 1 Clone the Repository
 
 ```bash
 git clone https://github.com/Ulisses22/dockerized-spring-api.git
 cd spring-boot-api-jwt
 
 ```
-## 2️⃣ Configure Environment Variables
+## 2 Configure Environment Variables
 **application.properties** (you can use .env file to Dynamic configuration)
 
 ```bash
@@ -27,7 +27,7 @@ SPRING_DATASOURCE_USERNAME: postgres
 SPRING_DATASOURCE_PASSWORD: root
 ```
 
-## 2️⃣ Run
+## 3 Run
 
 ```
 docker-compose up --build     # Build and run containers
